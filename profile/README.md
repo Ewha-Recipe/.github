@@ -1,6 +1,7 @@
-## Ewha-Recipe
+# Ewha-Recipe
 
 ### 1. 프로젝트 소개
+<img src="https://i.ibb.co/bBm53pR/logo.png" alt="logo" border="0">
 
 
 ### 2. 팀원
