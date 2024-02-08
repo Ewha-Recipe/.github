@@ -6,10 +6,10 @@
 ### 2. 팀원
 <table border="1" cellspacing="0" cellpadding="0" width="90%">
     <tr width="100%">
-        <td width="10%" align="center"><a href= "https://github.com/">박서연</a></td>
-        <td width="10%" align="center"><a href= "https://github.com/">배주원</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/syeon02">박서연</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/baejuwon-30">배주원</a></td>
         <td width="10%" align="center"><a href= "https://github.com/nomellc">정유진</a></td>
-        <td width="10%" align="center"><a href= "https://github.com/">채민주</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/judymoody59">채민주</a></td>
     </tr>
     <tr width="100%">
         <td width="10%" align="center"><img src = ""></td>
