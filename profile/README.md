@@ -11,9 +11,16 @@ Ewha Recipe는 요리를 사랑하는 사람들이 자신만의 레시피를 공
 ## 2. 기술 스택
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
    <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+
+## 3. 레포지토리
+### 프론트엔드
+  - [Recipe_FE](https://github.com/Ewha-Recipe/Recipe_FE)
+### 백엔드
+  - [Recipe_BE](https://github.com/Ewha-Recipe/Recipe_BE)
    
 
-## 3. 팀원
+## 4. 팀원
 <table border="1" cellspacing="0" cellpadding="0" width="90%">
     <tr width="100%">
         <td width="10%" align="center"><a href= "https://github.com/syeon02" width="100px" height="200px">박서연</a></td>
@@ -34,13 +41,6 @@ Ewha Recipe는 요리를 사랑하는 사람들이 자신만의 레시피를 공
         <td width="10%" align="center">BE</td>
    </tr>
 </table>
-
-
-## 4. 레포지토리
-### 프론트엔드
-  - [Recipe_FE](https://github.com/Ewha-Recipe/Recipe_FE)
-### 백엔드
-  - [Recipe_BE](https://github.com/Ewha-Recipe/Recipe_BE)
 
 
 ## 5. 관련 링크
