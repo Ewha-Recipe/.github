@@ -37,9 +37,9 @@ Ewha Recipe는 요리를 사랑하는 사람들이 자신만의 레시피를 공
 
 
 ## 4. 레포지토리
-#### 프론트엔드
+### 프론트엔드
   - [Recipe_FE](https://github.com/Ewha-Recipe/Recipe_FE)
-#### 백엔드
+### 백엔드
   - [Recipe_BE](https://github.com/Ewha-Recipe/Recipe_BE)
 
 
