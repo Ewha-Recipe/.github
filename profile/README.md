@@ -1,4 +1,4 @@
-# <div align="center">Ewha-Recipe</div><br>
+# Ewha-Recipe
 
 <div align="center"><img src="https://i.ibb.co/DL2dr9y/Kakao-Talk-20240209-184644484.png" alt="ewha-recipe-logo" border="0" width="100%"></div>
 
