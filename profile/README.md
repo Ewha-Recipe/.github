@@ -37,5 +37,5 @@ Ewha Recipe는 요리를 사랑하는 사람들이 자신만의 레시피를 공
 
 ## 4. 관련 링크
 - 디자인 기획이 궁금하시다면 -> <a href="https://www.figma.com/file/ABoPKv9z7KWaqAIe554qZ1/Ewha-Recipe?type=design&node-id=51%3A1572&mode=design&t=ASfu8RLv3J00lVUy-1">Ewha Recipe 피그마</a>
-- API 명세서가 궁금하시다면 -> <a href="https://tender-pony-75c.notion.site/b3d60e9dfa9d4ba2b81d16a9fe0f1048?v=aab65c5ea9ed4c62bbc1ad0700286e52&pvs=4">API 명세서</a>
+- API 명세서가 궁금하시다면 -> <a href="https://tender-pony-75c.notion.site/b3d60e9dfa9d4ba2b81d16a9fe0f1048?v=aab65c5ea9ed4c62bbc1ad0700286e52&pvs=4">Ewha Recipe API 명세서</a>
 - 팀의 다양한 기록이 궁금하시다면 -> <a href="https://tender-pony-75c.notion.site/2-7069d5013f584beb8c091f019924b54c?pvs=4">Ewha Recipe 노션 페이지</a>
