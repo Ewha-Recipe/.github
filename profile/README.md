@@ -23,16 +23,16 @@ Ewha Recipe는 요리를 사랑하는 사람들이 자신만의 레시피를 공
 ## 4. 팀원
 <table border="1" cellspacing="0" cellpadding="0" width="90%">
     <tr width="100%">
-        <td width="10%" align="center"><a href= "https://github.com/syeon02" width="100px" height="200px">박서연</a></td>
-        <td width="10%" align="center"><a href= "https://github.com/baejuwon-30" width="100px" height="200px">배주원</a></td>
-        <td width="10%" align="center"><a href= "https://github.com/nomellc" width="100px" height="200px">정유진</a></td>
-        <td width="10%" align="center"><a href= "https://github.com/judymoody59" width="100px" height="200px">채민주</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/syeon02">박서연</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/baejuwon-30">배주원</a></td>
+        <td width="10%" align="center"><a href= "https://github.com/nomellc">정유진</a></td>syeon02
+        <td width="10%" align="center"><a href= "https://github.com/judymoody59" width="100px">채민주</a></td>
     </tr>
     <tr width="100%">
         <td width="10%" align="center"><img src = ""></td>
-        <td width="10%" align="center"><img src = ""/></td>
+        <td width="10%" align="center"><img src = "https://i.ibb.co/fF4V4h3/Kakao-Talk-20240222-102014497.jpg"/></td>
         <td width="10%" align="center"><img src = "https://i.ibb.co/gS3tNy3/Kakao-Talk-20240222-003348417.jpg"/></td>
-        <td width="10%" align="center"><img src = ""/></td>
+        <td width="10%" align="center"><img src = "https://i.ibb.co/pRfdcYD/Kakao-Talk-20240222-095608968.jpg"/></td>
     </tr>
     <tr width="100%">
         <td width="10%" align="center">UX/UX & FE</td>
